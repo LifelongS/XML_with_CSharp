@@ -15,7 +15,6 @@
 - `XML_with_CSharp.exe` - исполняемый файл
 - `entry.xml` - пример XML-файла для обработки
 - `Entry.txt` - файл вывода результатов
-- Остальные файлы - служебные (`dll`, `pdb`, конфиги)
 
 ## Как запустить
 1. Убедитесь, что установлена [.NET Runtime](https://dotnet.microsoft.com/download)
